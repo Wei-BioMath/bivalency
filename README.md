@@ -1,4 +1,4 @@
-# Mathematical modeling of histone modifications reveals the formation mechanism and function of bivalent chromatin 
+# Mathematical modeling of H3K4me3/H3K27me3 bivalent chromatin 
 
 Run run_ODE.m to obtain steady-state solutions and phase plane for the deterministic model
 
